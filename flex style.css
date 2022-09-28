@@ -1,0 +1,14 @@
+#container {
+    background-color: lightgray;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    min-height: 600px;
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+}
